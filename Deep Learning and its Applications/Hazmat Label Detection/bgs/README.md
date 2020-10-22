@@ -1,1 +1,1 @@
-There is originally 33,000 files in this folder, only 99 is shown for demonstration. Each file represent a batch of background images.
+Backgrounds are generated from the Flickr8k dataset (BackgroundGeneration.ipynb). There is originally 33,000 files in this folder, only 99 is shown for demonstration. Each file represent a batch of background images.
