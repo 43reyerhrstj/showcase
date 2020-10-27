@@ -1,1 +1,0 @@
-This shows 10 pictures from the Flickr8k dataset. I used these pictures to generate background images.

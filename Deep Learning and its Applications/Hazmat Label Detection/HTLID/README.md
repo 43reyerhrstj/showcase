@@ -1,1 +1,0 @@
-Copied from https://osf.io/b5dap/. This dataset is too small to train on, and a test set (X_test.npy, Y_test.npy) is generated with this dataset. Only a portion of this dataset is shown for demonstration.
