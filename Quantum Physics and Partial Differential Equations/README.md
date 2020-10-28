@@ -1,4 +1,4 @@
-# Showcase 
+# Quantum Mechanics and PDE 
 This showcase presents my work for my Senior year's independent study into Quantum Mechanics and Partial Differential Equations.
 
 # Report.pdf
