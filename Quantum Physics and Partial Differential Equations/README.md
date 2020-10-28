@@ -1,3 +1,4 @@
+### Note that this is my senior year's independent study and a work in progress
 This showcase presents my work for my Senior year's independent study into Quantum Mechanics and Partial Differential Equations.
 This independent study project is an ongoing project that will last the entire year. As the year moves on, I will be continuing to add my progress.
 Proposal.pdf is my proposal for this Independent Study.
